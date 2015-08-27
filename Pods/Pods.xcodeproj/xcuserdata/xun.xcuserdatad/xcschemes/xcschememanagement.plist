@@ -9,10 +9,10 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ios-ci.xcscheme</key>
+		<key>Pods-ios-ci.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
